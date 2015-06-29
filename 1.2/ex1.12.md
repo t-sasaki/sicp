@@ -1,3 +1,5 @@
+* http://sicp.iijlab.net/fulltext/x122.html#ex112
+
 各要素をrow/col で指定し値を算出する `(pascal row col)` を定義する。  
 以下、処理結果。
 
