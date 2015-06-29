@@ -5,14 +5,6 @@
 	   (* 2 (f (- n 2)))
 	   (* 3 (f (- n 3))))))
 
-(print (f 0))
-(print (f 1))
-(print (f 2))
-(print (f 3))
-(print (f 4))
-(print (f 5))
-
-
 (define (f n)
   (define (f-iter a b c count)
 	(if (< count 3)
@@ -21,10 +13,3 @@
   (if (< n 3)
 	n
 	(f-iter 2 1 0 n)))
-
-(print (f 0))
-(print (f 1))
-(print (f 2))
-(print (f 3))
-(print (f 4))
-(print (f 5))
