@@ -1,4 +1,4 @@
-http://sicp.iijlab.net/fulltext/x122.html#ex113
+* http://sicp.iijlab.net/fulltext/x122.html#ex113
 
 ```
 φ = (1 + √5) / 2
