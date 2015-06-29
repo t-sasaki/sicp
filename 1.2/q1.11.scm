@@ -1,3 +1,4 @@
+;; 再帰的プロセス
 (define (f n)
   (if (< n 3)
 	n
@@ -5,6 +6,7 @@
 	   (* 2 (f (- n 2)))
 	   (* 3 (f (- n 3))))))
 
+;; 反復的プロセス
 (define (f n)
   (define (f-iter a b c count)
 	(if (< count 3)
