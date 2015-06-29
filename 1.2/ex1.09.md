@@ -1,3 +1,5 @@
+* http://sicp.iijlab.net/fulltext/x121.html#ex109
+
 ```scheme
 (define (+ a b)
   (if (= a 0)
