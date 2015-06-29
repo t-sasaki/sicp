@@ -1,3 +1,5 @@
+* http://sicp.iijlab.net/fulltext/x122.html#ex111
+
 ## 再帰的プロセス版
 
 * 手続き定義
